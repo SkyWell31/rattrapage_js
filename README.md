@@ -169,7 +169,7 @@ Ce choix a été fait pour rendre le projet plus vivant, plus personnel, et plus
 
 L’application peut être déployée facilement sur **Vercel** :
 
-Voici le lien vers la page : A_REMPLIR
+Voici le lien vers la page : https://rattrapage-js.vercel.app/
 
 ---
 
