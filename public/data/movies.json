@@ -1,0 +1,74 @@
+[
+  {
+    "id": "m-1",
+    "title": "Le Seigneur des Anneaux : La Communauté de l’Anneau",
+    "director": "Peter Jackson",
+    "year": 2001,
+    "genre": "Fantasy / Aventure",
+    "status": "Vu",
+    "favorite": false,
+    "rating": 5,
+    "description": "Frodon hérite d’un anneau au pouvoir absolu et quitte la Comté avec une communauté hétéroclite pour empêcher Sauron de reconquérir la Terre du Milieu.",
+    "source": "local"
+  },
+  {
+    "id": "m-2",
+    "title": "Le Seigneur des Anneaux : Les Deux Tours",
+    "director": "Peter Jackson",
+    "year": 2002,
+    "genre": "Fantasy / Aventure",
+    "status": "Vu",
+    "favorite": false,
+    "rating": 5,
+    "description": "La communauté est brisée, mais la lutte continue entre les peuples libres et les forces de Saroumane, tandis que Frodon poursuit sa route vers le Mordor.",
+    "source": "local"
+  },
+  {
+    "id": "m-3",
+    "title": "Le Seigneur des Anneaux : Le Retour du Roi",
+    "director": "Peter Jackson",
+    "year": 2003,
+    "genre": "Fantasy / Aventure",
+    "status": "Vu",
+    "favorite": false,
+    "rating": 5,
+    "description": "Alors que la guerre pour la Terre du Milieu atteint son apogée, Aragorn assume son destin de roi tandis que Frodon approche de la Montagne du Destin.",
+    "source": "local"
+  },
+  {
+    "id": "m-4",
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "year": 2014,
+    "genre": "Science-fiction",
+    "status": "Vu",
+    "favorite": true,
+    "rating": 5,
+    "description": "Face à l'effondrement de la Terre, un ancien pilote rejoint une mission spatiale pour tenter de sauver l'humanité à travers un voyage relativiste.",
+    "source": "local"
+  },
+  {
+    "id": "m-5",
+    "title": "Parasite",
+    "director": "Bong Joon-ho",
+    "year": 2019,
+    "genre": "Thriller social",
+    "status": "Vu",
+    "favorite": false,
+    "rating": 5,
+    "description": "La famille Kim infiltre progressivement le quotidien d'une riche famille de Séoul, jusqu'à faire exploser les tensions sociales cachées sous la surface.",
+    "source": "local"
+  },
+  {
+    "id": "m-6",
+    "title": "Arcane",
+    "director": "Christian Linke & Alex Yee",
+    "year": 2021,
+    "genre": "Animation / Fantasy",
+    "status": "À voir",
+    "favorite": false,
+    "rating": 4.5,
+    "description": "Deux sœurs se retrouvent opposées au cœur d'un conflit politique et technologique entre la ville idéale de Piltover et les bas-fonds de Zaun.",
+    "source": "local"
+  }
+]
