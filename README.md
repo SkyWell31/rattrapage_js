@@ -60,29 +60,6 @@ npm run preview
 
 ---
 
-## 4. Configuration TMDB (import de films)
-
-L’application permet d’importer des films depuis **TMDB**.
-
-### Étape 1 — Créer un fichier `.env`
-
-Créer un fichier `.env` à la racine du projet à partir du fichier `.env.example`.
-
-Exemple :
-
-```env
-VITE_TMDB_READ_ACCESS_TOKEN=lotr_is_the_best_token
-```
-
-### Étape 2 — Utilisation
-
-Une fois la variable renseignée, l’interface d’import permet :
-- de rechercher un film par titre ;
-- d’afficher plusieurs résultats ;
-- d’importer un film directement dans la collection locale.
-
----
-
 ### Rôle des principaux fichiers
 
 - `App.jsx` : logique principale de l’application, état global, chargement, filtres, favoris, suppression, import externe.
@@ -97,7 +74,7 @@ Une fois la variable renseignée, l’interface d’import permet :
 
 ---
 
-## 5. Fonctionnalités implémentées
+## 4. Fonctionnalités implémentées
 
 ### Fonctionnalités obligatoires
 
@@ -133,7 +110,7 @@ Une fois la variable renseignée, l’interface d’import permet :
 
 ---
 
-## 6. Ambiance LOTR intégrée au projet
+## 5. Ambiance LOTR intégrée au projet
 
 Cette application contient plusieurs mécaniques volontairement humoristiques :
 
@@ -146,7 +123,7 @@ Ce choix a été fait pour rendre le projet plus vivant, plus personnel, et plus
 
 ---
 
-## 7. Limites connues / pistes d’amélioration
+## 6. Limites connues / pistes d’amélioration
 
 ### Limites actuelles
 
@@ -165,7 +142,7 @@ Ce choix a été fait pour rendre le projet plus vivant, plus personnel, et plus
 
 ---
 
-## 8. Déploiement
+## 7. Déploiement
 
 L’application peut être déployée facilement sur **Vercel** :
 
@@ -173,7 +150,7 @@ Voici le lien vers la page : https://rattrapage-js.vercel.app/
 
 ---
 
-## 9. Conclusion
+## 8. Conclusion
 
 Ce projet répond à la consigne d’une mini-application React de gestion de médias, tout en ajoutant une identité visuelle et narrative forte.
 
