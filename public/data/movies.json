@@ -7,7 +7,7 @@
     "genre": "Fantasy / Aventure",
     "status": "Vu",
     "favorite": false,
-    "rating": 5,
+    "rating": 100,
     "description": "Frodon hérite d’un anneau au pouvoir absolu et quitte la Comté avec une communauté hétéroclite pour empêcher Sauron de reconquérir la Terre du Milieu.",
     "source": "local"
   },
@@ -19,7 +19,7 @@
     "genre": "Fantasy / Aventure",
     "status": "Vu",
     "favorite": false,
-    "rating": 5,
+    "rating": 100,
     "description": "La communauté est brisée, mais la lutte continue entre les peuples libres et les forces de Saroumane, tandis que Frodon poursuit sa route vers le Mordor.",
     "source": "local"
   },
@@ -31,7 +31,7 @@
     "genre": "Fantasy / Aventure",
     "status": "Vu",
     "favorite": false,
-    "rating": 5,
+    "rating": 100,
     "description": "Alors que la guerre pour la Terre du Milieu atteint son apogée, Aragorn assume son destin de roi tandis que Frodon approche de la Montagne du Destin.",
     "source": "local"
   },
